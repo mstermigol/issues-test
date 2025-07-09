@@ -1,1 +1,1 @@
-This is a test repo
+This is a test repository to validate and experiment with integration using the GitHub API and GitHub Apps.
